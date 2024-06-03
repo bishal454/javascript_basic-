@@ -8,3 +8,6 @@ let gameCounter=3002
 gameCounter++
 
 console.log(gameCounter)
+console.log(++gameCounter)
+console.log(gameCounter++)
+console.log(gameCounter)
