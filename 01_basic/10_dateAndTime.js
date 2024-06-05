@@ -1,9 +1,9 @@
-// let myDate=new Date
-// console.log(myDate.getFullYear())
-// console.log(myDate)
-// console.log(myDate.toLocaleDateString())
-// console.log(myDate.toDateString())
-// console.log(myDate.toLocaleString())
+let myDate=new Date
+console.log(myDate.getFullYear())
+console.log(myDate)
+console.log(myDate.toLocaleDateString())
+console.log(myDate.toDateString())
+console.log(myDate.toLocaleString())
 
 
 let createdDate=new Date(2024,6,13,10,15)
