@@ -3,7 +3,7 @@
 // and distrub the function values . in one word due to the global scope pollution .;to stope context
 
 (function chai(){
-    // named IIEF
+    // named IIEF (immediately invoked function)
     console.log(`DB CONNECTED`)
 })();
 ((name)=>{
