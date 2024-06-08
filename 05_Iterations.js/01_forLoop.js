@@ -9,21 +9,34 @@
 //         console.log(i + '*' + j + '=' + i*j)
 //     }
 //  }
-for (let i = 1; i <20; i++) {
-    if(i==5){
-        console.log(`detected 5`)
-        break
+// for (let i = 1; i <20; i++) {
+//     if(i==5){
+//         console.log(`detected 5`)
+//         break
 
-    }
-    console.log(`the value of i is :${i}`)
+//     }
+//     console.log(`the value of i is :${i}`)
+    
+// }
+// for (let i = 1; i <20; i++) {
+//     if(i==5){
+//         console.log(`detected 5`)
+//         continue
+
+//     }
+//     console.log(`the value of i is :${i}`)
+    
+// }
+
+let i=2
+while (i<=10) {
+    console.log(i)
+    i++
     
 }
-for (let i = 1; i <20; i++) {
-    if(i==5){
-        console.log(`detected 5`)
-        continue
 
-    }
-    console.log(`the value of i is :${i}`)
-    
-}
+let a=11
+do {
+    console.log(a)
+    a++
+} while (a<=10);
