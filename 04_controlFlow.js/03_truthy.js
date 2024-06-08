@@ -1,4 +1,4 @@
-// false,{},0n,0,-0,null, BigInt,undefined,NaN    ++>>>>>considered as falasy value 
+ // false,{},0n,0,-0,null, BigInt,undefined,NaN    ++>>>>>considered as falasy value 
 // truthy value +++++>>>>> "0",'false'," ", [],{},funstion(){}
 // === is called exact equality 
 
